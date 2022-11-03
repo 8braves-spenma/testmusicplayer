@@ -21,7 +21,7 @@
     --lightshadow: rgba(63, 62, 62, 0.719);
 }
 body{
-    background-image: url(../images/bg.jpg);
+    background: linear-gradient(var(--white) 10%, var(--violet) 80%);;
      min-height: 100vh;
      width: 100%;
 }
