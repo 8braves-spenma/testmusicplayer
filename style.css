@@ -20,11 +20,13 @@
     --blueshadow: rgb(34, 144, 177);
     --lightshadow: rgba(63, 62, 62, 0.719);
 }
+
 body{
     background: linear-gradient(var(--white) 10%, var(--violet) 80%);;
      min-height: 100vh;
      width: 100%;
 }
+
 .wrapper{
     width: 380px;
     overflow: hidden;
